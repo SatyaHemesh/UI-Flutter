@@ -63,7 +63,7 @@ Focuses on interactive UI elements and widget customization.
 - `lib/experiment2/widgets/custom_widget.dart`
 
 **Images**  
-![experiment2.png](assets/images/experiment2.png)
+![experiment2b.png](assets/images/experiment2b.png)
 
 **How to run (typical)**
 1. Open this experiment's folder.
