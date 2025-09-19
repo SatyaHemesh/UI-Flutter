@@ -53,7 +53,7 @@ A Flutter UI experiment demonstrating basic layout and widget usage.
 
 **Location / sample files**
 - `lib/experiment2/main.dart`
-- `assets/images/experiment2.png`
+- `assets/images/experiment2b.png`
 
 **Quick description**  
 Focuses on interactive UI elements and widget customization.
