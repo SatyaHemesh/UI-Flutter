@@ -1,8 +1,27 @@
-# Ignore everything by default
-/*
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+pubspec.lock
 
-# But not these
-!/.gitignore
-!/README.md
-!/lib/
-!/lib/**
+# Android related
+android/
+*.keystore
+*.jks
+
+# iOS/Xcode related
+ios/
+macos/
+*.xcworkspace/
+*.xcuserstate
+Pods/
+
+# VS Code / IntelliJ / Android Studio
+.vscode/
+.idea/
+*.iml
+
+# Other
+*.log
+*.tmp
